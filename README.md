@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SamuelJarnet
-- 👀 I’m interested in women
-- 🌱 I’m currently learning about women
-- 💞️ I’m looking to collaborate on women
-- 📫 How to reach me: Facebook Marketplace
+- 👀 I’m interested in Computer Science and AI.
+- 🌱 I’m currently learning about how to plan and execute an effective programming project.
+- 📫 How to reach me: Email - jarnets17@holyportcollege.org.uk
 
 <!---
 SamuelJarnet/SamuelJarnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
