@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SamuelJarnet
 - 👀 I’m interested in women
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about women
+- 💞️ I’m looking to collaborate on women
+- 📫 How to reach me: Facebook Marketplace
 
 <!---
 SamuelJarnet/SamuelJarnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
